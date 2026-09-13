@@ -1,0 +1,4 @@
+*.pem
+*.sql
+*.tar.gz
+wp-config.php
